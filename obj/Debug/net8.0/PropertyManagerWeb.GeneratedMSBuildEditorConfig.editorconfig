@@ -42,34 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXFByaXZhY3kuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/juano/Source/Repos/PropertyManagerWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qhjmvgus6b
-
-[C:/Users/juano/Source/Repos/PropertyManagerWeb/PropertyManagerWeb/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydHlNYW5hZ2VyV2ViXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = b-fz7aafyscl
