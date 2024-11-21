@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using PropertyManagerWeb.Data;
+
 namespace PropertyManagerWeb
 {
     public class Program
@@ -8,6 +11,11 @@ namespace PropertyManagerWeb
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+
+            builder.Services.AddDbContext<PropertyManagerContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("PropertyManagerDB"))
+            );
+
 
             var app = builder.Build();
 
