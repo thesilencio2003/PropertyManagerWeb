@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\pages\\cpropiedades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpropiedades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\pages\\cpropiedades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpropiedades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\models\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\pages\\cpropiedades\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpropiedades\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\pages\\cpropiedades\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpropiedades\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\pages\\cpropiedades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpropiedades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\usuario\\documents\\to\\propertymanagerweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CPropiedades\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\CPropiedades\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:30:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CPropiedades\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\CPropiedades\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T21:29:42.456Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -56,7 +90,7 @@
               "RelativeDocumentMoniker": "Pages\\CPropiedades\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\CPropiedades\\Create.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T20:55:45.852Z",
               "EditorCaption": ""
@@ -67,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\CPropiedades\\Create.cshtml",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Create.cshtml*",
-              "RelativeToolTip": "Pages\\CPropiedades\\Create.cshtml*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCMAAABLAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Create.cshtml",
+              "RelativeToolTip": "Pages\\CPropiedades\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T20:55:02.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -92,7 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Propiedades.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Models\\Propiedades.cs",
+              "RelativeDocumentMoniker": "Models\\Propiedades.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Models\\Propiedades.cs",
+              "RelativeToolTip": "Models\\Propiedades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:25:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PropertyManagerContext.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Data\\PropertyManagerContext.cs",
               "RelativeDocumentMoniker": "Data\\PropertyManagerContext.cs",
@@ -105,20 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Propiedades.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Models\\Propiedades.cs",
-              "RelativeDocumentMoniker": "Models\\Propiedades.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Models\\Propiedades.cs",
-              "RelativeToolTip": "Models\\Propiedades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:25:20.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -130,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\CPropiedades\\Index.cshtml",
@@ -142,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\CPropiedades\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\CPropiedades\\Index.cshtml.cs",
@@ -154,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
