@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropertyManagerWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d834fe16053fcc8a55bf40f8e519b17c94965317")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb8bde9c3e4cb04a8b0d396f915869ac0afb5383")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropertyManagerWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropertyManagerWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
