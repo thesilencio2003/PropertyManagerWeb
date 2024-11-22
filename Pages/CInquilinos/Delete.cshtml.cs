@@ -4,62 +4,49 @@ using Microsoft.EntityFrameworkCore;
 using PropertyManagerWeb.Data;
 using PropertyManagerWeb.Models;
 
-namespace PropertyManagerWeb.Pages.CPropiedades
+namespace PropertyManagerWeb.Pages.CInquilinos
 {
     public class DeleteModel : PageModel
     {
         private readonly PropertyManagerContext _context;
-
         public DeleteModel(PropertyManagerContext context)
         {
             _context = context;
         }
-
         [BindProperty]
-        public Propiedades Propiedades { get; set; } = default!;
-
+        public Inquilinos Inquilinos { get; set; } = default!;
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null || _context.Propiedades == null)
+            if (id == null || _context.Inquilinos == null)
             {
                 return NotFound();
             }
-
-            var propiedades = await _context.Propiedades.FirstOrDefaultAsync(m => m.Id == id);
-
-            if (propiedades == null)
+            var inquilinos = await _context.Inquilinos.FirstOrDefaultAsync(m => m.Id == id);
+            if (inquilinos == null)
             {
                 return NotFound();
             }
             else
             {
-                Propiedades = propiedades;
+                Inquilinos = inquilinos;
             }
-
             return Page();
-
         }
-
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            if (id == null || _context.Propiedades == null)
+            if (id == null || _context.Inquilinos == null)
             {
                 return NotFound();
             }
-
-            var propiedades = await _context.Propiedades.FindAsync(id);
-
-
-            if (propiedades != null)
+            var inquilinos = await _context.Inquilinos.FindAsync(id);
+            if (inquilinos != null)
             {
-                Propiedades = propiedades;
-                _context.Propiedades.Remove(Propiedades);
+                Inquilinos = inquilinos;
+                _context.Inquilinos.Remove(Inquilinos);
                 await _context.SaveChangesAsync();
-
             }
-
             return RedirectToPage("./Index");
         }
-
     }
 }
+
