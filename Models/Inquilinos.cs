@@ -8,6 +8,6 @@
             public string Telefono { get; set; }
             public string Email { get; set; }
             public int IdPropiedad { get; set; }
-            public Propiedades Propiedad { get; set; }        
+            public Propiedades ?Propiedad { get; set; } = default!;
     }
 }

@@ -17,7 +17,7 @@ namespace PropertyManagerWeb.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.10")
+                .HasAnnotation("ProductVersion", "9.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -82,7 +82,7 @@ namespace PropertyManagerWeb.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PropiedadId")
+                    b.Property<int?>("PropiedadId")
                         .HasColumnType("int");
 
                     b.Property<string>("Telefono")
@@ -172,9 +172,7 @@ namespace PropertyManagerWeb.Migrations
                 {
                     b.HasOne("PropertyManagerWeb.Models.Propiedades", "Propiedad")
                         .WithMany()
-                        .HasForeignKey("PropiedadId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PropiedadId");
 
                     b.Navigation("Propiedad");
                 });

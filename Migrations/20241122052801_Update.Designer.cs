@@ -12,15 +12,15 @@ using PropertyManagerWeb.Data;
 namespace PropertyManagerWeb.Migrations
 {
     [DbContext(typeof(PropertyManagerContext))]
-    [Migration("20241111235445_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20241122052801_Update")]
+    partial class Update
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.10")
+                .HasAnnotation("ProductVersion", "9.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -85,7 +85,7 @@ namespace PropertyManagerWeb.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PropiedadId")
+                    b.Property<int?>("PropiedadId")
                         .HasColumnType("int");
 
                     b.Property<string>("Telefono")
@@ -175,9 +175,7 @@ namespace PropertyManagerWeb.Migrations
                 {
                     b.HasOne("PropertyManagerWeb.Models.Propiedades", "Propiedad")
                         .WithMany()
-                        .HasForeignKey("PropiedadId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PropiedadId");
 
                     b.Navigation("Propiedad");
                 });
