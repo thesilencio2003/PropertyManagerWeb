@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0NvbnRyYXRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kgomez/Source/Repos/PropertyManagerWeb/Pages/CContratos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0NvbnRyYXRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kgomez/Source/Repos/PropertyManagerWeb/Pages/CContratos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0NvbnRyYXRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
