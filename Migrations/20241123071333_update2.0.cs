@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace PropertyManagerWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class update : Migration
+    public partial class update20 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -49,7 +49,7 @@ namespace PropertyManagerWeb.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     IdPropiedad = table.Column<int>(type: "int", nullable: false),
-                    PropiedadId = table.Column<int>(type: "int", nullable: false),
+                    PropiedadId = table.Column<int>(type: "int", nullable: true),
                     IdInquilino = table.Column<int>(type: "int", nullable: false),
                     FechaInicio = table.Column<DateTime>(type: "datetime2", nullable: false),
                     FechaFin = table.Column<DateTime>(type: "datetime2", nullable: false),
@@ -63,8 +63,7 @@ namespace PropertyManagerWeb.Migrations
                         name: "FK_Contratos_Propiedades_PropiedadId",
                         column: x => x.PropiedadId,
                         principalTable: "Propiedades",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(

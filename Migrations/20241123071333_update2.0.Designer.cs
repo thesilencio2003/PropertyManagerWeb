@@ -12,8 +12,8 @@ using PropertyManagerWeb.Data;
 namespace PropertyManagerWeb.Migrations
 {
     [DbContext(typeof(PropertyManagerContext))]
-    [Migration("20241123062713_update")]
-    partial class update
+    [Migration("20241123071333_update2.0")]
+    partial class update20
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -48,7 +48,7 @@ namespace PropertyManagerWeb.Migrations
                     b.Property<int>("IdPropiedad")
                         .HasColumnType("int");
 
-                    b.Property<int>("PropiedadId")
+                    b.Property<int?>("PropiedadId")
                         .HasColumnType("int");
 
                     b.Property<string>("Terminos")
@@ -185,9 +185,7 @@ namespace PropertyManagerWeb.Migrations
                 {
                     b.HasOne("PropertyManagerWeb.Models.Propiedades", "Propiedad")
                         .WithMany()
-                        .HasForeignKey("PropiedadId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PropiedadId");
 
                     b.Navigation("Propiedad");
                 });

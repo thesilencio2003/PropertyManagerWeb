@@ -45,7 +45,7 @@ namespace PropertyManagerWeb.Migrations
                     b.Property<int>("IdPropiedad")
                         .HasColumnType("int");
 
-                    b.Property<int>("PropiedadId")
+                    b.Property<int?>("PropiedadId")
                         .HasColumnType("int");
 
                     b.Property<string>("Terminos")
@@ -182,9 +182,7 @@ namespace PropertyManagerWeb.Migrations
                 {
                     b.HasOne("PropertyManagerWeb.Models.Propiedades", "Propiedad")
                         .WithMany()
-                        .HasForeignKey("PropiedadId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PropiedadId");
 
                     b.Navigation("Propiedad");
                 });
