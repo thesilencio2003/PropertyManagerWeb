@@ -7,7 +7,7 @@ namespace PropertyManagerWeb.Models
     {
             public int Id { get; set; }
             public int IdContrato { get; set; }
-            public Contratos Contrato { get; set; }
+            public Contratos? Contrato { get; set; } = default!;
             public DateTime FechaPago { get; set; }
 
             [Column(TypeName = "decimal(6,2)")]

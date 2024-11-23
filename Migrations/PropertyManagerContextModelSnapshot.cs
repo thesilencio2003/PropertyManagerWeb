@@ -104,7 +104,7 @@ namespace PropertyManagerWeb.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("ContratoId")
+                    b.Property<int?>("ContratoId")
                         .HasColumnType("int");
 
                     b.Property<string>("Estado")
@@ -202,9 +202,7 @@ namespace PropertyManagerWeb.Migrations
                 {
                     b.HasOne("PropertyManagerWeb.Models.Contratos", "Contrato")
                         .WithMany()
-                        .HasForeignKey("ContratoId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ContratoId");
 
                     b.Navigation("Contrato");
                 });

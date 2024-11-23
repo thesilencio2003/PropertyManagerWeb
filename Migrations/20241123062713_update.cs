@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace PropertyManagerWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class updateuser : Migration
+    public partial class update : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -97,7 +97,7 @@ namespace PropertyManagerWeb.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     IdContrato = table.Column<int>(type: "int", nullable: false),
-                    ContratoId = table.Column<int>(type: "int", nullable: false),
+                    ContratoId = table.Column<int>(type: "int", nullable: true),
                     FechaPago = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Monto = table.Column<decimal>(type: "decimal(6,2)", nullable: false),
                     Estado = table.Column<string>(type: "nvarchar(max)", nullable: false)
@@ -109,8 +109,7 @@ namespace PropertyManagerWeb.Migrations
                         name: "FK_Pagos_Contratos_ContratoId",
                         column: x => x.ContratoId,
                         principalTable: "Contratos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateIndex(
