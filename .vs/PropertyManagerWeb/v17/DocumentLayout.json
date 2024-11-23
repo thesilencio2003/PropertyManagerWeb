@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\kgomez\\source\\repos\\propertymanagerweb\\pages\\cpagos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:pages\\cpagos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CPagos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Index.cshtml.cs*",
+              "RelativeToolTip": "Pages\\CPagos\\Index.cshtml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:44:20.511Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,26 +67,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CPagos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\CPagos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:44:21.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:43:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T06:43:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CPagos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\CPagos\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:38:40.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CPagos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\CPagos\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T06:37:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\CPagos\\Delete.cshtml.cs",
               "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Delete.cshtml.cs",
               "RelativeToolTip": "Pages\\CPagos\\Delete.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T06:32:12.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\CPagos\\Delete.cshtml",
               "ToolTip": "C:\\Users\\kgomez\\source\\repos\\PropertyManagerWeb\\Pages\\CPagos\\Delete.cshtml",
               "RelativeToolTip": "Pages\\CPagos\\Delete.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-23T06:32:02.393Z",
               "EditorCaption": ""
