@@ -4735,19 +4735,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juano\\.nuget\\packages\\": {}
+    "C:\\Users\\kgomez\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+      "projectUniqueName": "C:\\Users\\kgomez\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
       "projectName": "PropertyManagerWeb",
-      "projectPath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
-      "packagesPath": "C:\\Users\\juano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\obj\\",
+      "projectPath": "C:\\Users\\kgomez\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+      "packagesPath": "C:\\Users\\kgomez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kgomez\\Source\\Repos\\PropertyManagerWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\juano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kgomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
