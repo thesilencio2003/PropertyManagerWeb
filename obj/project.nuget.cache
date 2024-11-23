@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3N2fZaCPv94=",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+=======
+  "dgSpecHash": "FWdVJ5sJ++s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+>>>>>>> 217e5a635357080611ae00c2f4f9137566d2710e
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

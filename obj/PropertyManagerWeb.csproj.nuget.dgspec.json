@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\obj\\",
+=======
+    "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+        "projectName": "PropertyManagerWeb",
+        "projectPath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+        "packagesPath": "C:\\Users\\juano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\obj\\",
+>>>>>>> 217e5a635357080611ae00c2f4f9137566d2710e
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
