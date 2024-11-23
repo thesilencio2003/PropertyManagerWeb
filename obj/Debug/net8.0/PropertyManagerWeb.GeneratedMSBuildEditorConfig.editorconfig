@@ -17,80 +17,46 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PropertyManagerWeb
 build_property.RootNamespace = PropertyManagerWeb
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\usuario\Documents\To\PropertyManagerWeb\
-=======
 build_property.ProjectDir = C:\Users\juano\source\repos\PropertyManagerWeb\
->>>>>>> 217e5a635357080611ae00c2f4f9137566d2710e
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
-build_property.MSBuildProjectDirectory = C:\Users\usuario\Documents\To\PropertyManagerWeb
+build_property.MSBuildProjectDirectory = C:\Users\juano\source\repos\PropertyManagerWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CInquilinos/Create.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CInquilinos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CInquilinos/Delete.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CInquilinos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CInquilinos/Edit.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CInquilinos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CInquilinos/Index.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CInquilinos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0lucXVpbGlub3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CPropiedades/Create.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CPropiedades/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CPropiedades/Delete.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CPropiedades/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CPropiedades/Edit.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CPropiedades/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/CPropiedades/Index.cshtml]
+[C:/Users/juano/source/repos/PropertyManagerWeb/Pages/CPropiedades/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1Byb3BpZWRhZGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/usuario/Documents/To/PropertyManagerWeb/Pages/Shared/_Layout.cshtml]
-=======
-build_property.MSBuildProjectDirectory = C:\Users\juano\source\repos\PropertyManagerWeb
-build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/juano/source/repos/PropertyManagerWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
@@ -117,6 +83,5 @@ build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/juano/source/repos/PropertyManagerWeb/Pages/Shared/_Layout.cshtml]
->>>>>>> 217e5a635357080611ae00c2f4f9137566d2710e
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qhjmvgus6b

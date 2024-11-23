@@ -12,8 +12,8 @@ using PropertyManagerWeb.Data;
 namespace PropertyManagerWeb.Migrations
 {
     [DbContext(typeof(PropertyManagerContext))]
-    [Migration("20241122052801_Update")]
-    partial class Update
+    [Migration("20241123032927_updateuser")]
+    partial class updateuser
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -158,6 +158,27 @@ namespace PropertyManagerWeb.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Propiedades");
+                });
+
+            modelBuilder.Entity("PropertyManagerWeb.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("PropertyManagerWeb.Models.Contratos", b =>

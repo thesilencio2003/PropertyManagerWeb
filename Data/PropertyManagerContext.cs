@@ -12,6 +12,6 @@ namespace PropertyManagerWeb.Data
         public DbSet<Inquilinos> Inquilinos { get; set; }
         public DbSet<Contratos> Contratos { get; set; }
         public DbSet<Pagos> Pagos { get; set; }
-     
-    } 
+        public DbSet<User> Users { get; set; }
+    }
 }

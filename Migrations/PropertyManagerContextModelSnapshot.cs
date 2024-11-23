@@ -157,6 +157,27 @@ namespace PropertyManagerWeb.Migrations
                     b.ToTable("Propiedades");
                 });
 
+            modelBuilder.Entity("PropertyManagerWeb.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("PropertyManagerWeb.Models.Contratos", b =>
                 {
                     b.HasOne("PropertyManagerWeb.Models.Propiedades", "Propiedad")

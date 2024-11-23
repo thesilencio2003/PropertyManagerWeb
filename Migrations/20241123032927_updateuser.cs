@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace PropertyManagerWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class NewUpdate : Migration
+    public partial class updateuser : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -25,6 +26,20 @@ namespace PropertyManagerWeb.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Propiedades", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Users",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Users", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -82,7 +97,7 @@ namespace PropertyManagerWeb.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     IdContrato = table.Column<int>(type: "int", nullable: false),
-                    ContratoId = table.Column<int>(type: "int", nullable: true),
+                    ContratoId = table.Column<int>(type: "int", nullable: false),
                     FechaPago = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Monto = table.Column<decimal>(type: "decimal(6,2)", nullable: false),
                     Estado = table.Column<string>(type: "nvarchar(max)", nullable: false)
@@ -94,7 +109,8 @@ namespace PropertyManagerWeb.Migrations
                         name: "FK_Pagos_Contratos_ContratoId",
                         column: x => x.ContratoId,
                         principalTable: "Contratos",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
@@ -121,6 +137,9 @@ namespace PropertyManagerWeb.Migrations
 
             migrationBuilder.DropTable(
                 name: "Pagos");
+
+            migrationBuilder.DropTable(
+                name: "Users");
 
             migrationBuilder.DropTable(
                 name: "Contratos");
