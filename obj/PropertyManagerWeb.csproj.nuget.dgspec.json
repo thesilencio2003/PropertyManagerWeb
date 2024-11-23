@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {}
+    "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {
+    "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+        "projectUniqueName": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
         "projectName": "PropertyManagerWeb",
-        "projectPath": "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+        "projectPath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
         "packagesPath": "C:\\Users\\juano\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\obj\\",
         "projectStyle": "PackageReference",
