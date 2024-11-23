@@ -1,7 +1,83 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\To\\PropertyManagerWeb\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PropertyManagerDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123032927_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123032927_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031549_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123031549_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\propertymanagerweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:propertymanagerweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031929_chao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123031929_chao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031819_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123031819_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031447_Updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123031447_Updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031324_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123031324_updateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:data\\propertymanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\models\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\models\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\models\\inquilinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\inquilinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\models\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:models\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|c:\\users\\juano\\source\\repos\\propertymanagerweb\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{72B0F003-4CB0-4329-A736-7FF598D8AE6D}|PropertyManagerWeb.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +85,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-23T03:31:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PropertyManagerDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-23T03:30:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241123032927_updateuser.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123032927_updateuser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123032927_updateuser.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123032927_updateuser.cs",
+              "RelativeToolTip": "Migrations\\20241123032927_updateuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:29:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyManagerWeb",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+              "RelativeDocumentMoniker": "PropertyManagerWeb.csproj",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+              "RelativeToolTip": "PropertyManagerWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T03:21:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241123031929_chao.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031929_chao.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123031929_chao.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031929_chao.cs",
+              "RelativeToolTip": "Migrations\\20241123031929_chao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:19:29.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241123031819_updateusers.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031819_updateusers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123031819_updateusers.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031819_updateusers.cs",
+              "RelativeToolTip": "Migrations\\20241123031819_updateusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:18:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241123031549_updateusers.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031549_updateusers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123031549_updateusers.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031549_updateusers.cs",
+              "RelativeToolTip": "Migrations\\20241123031549_updateusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:15:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241123031447_Updateusers.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031447_Updateusers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123031447_Updateusers.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031447_Updateusers.cs",
+              "RelativeToolTip": "Migrations\\20241123031447_Updateusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:14:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241123031324_updateusers.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031324_updateusers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123031324_updateusers.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Migrations\\20241123031324_updateusers.cs",
+              "RelativeToolTip": "Migrations\\20241123031324_updateusers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:13:24.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Data\\PropertyManagerContext.cs",
+              "RelativeDocumentMoniker": "Data\\PropertyManagerContext.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Data\\PropertyManagerContext.cs",
+              "RelativeToolTip": "Data\\PropertyManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:07:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:02:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertyManagerWeb.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\PropertyManagerWeb.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:27:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contratos.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Contratos.cs",
+              "RelativeDocumentMoniker": "Models\\Contratos.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Contratos.cs",
+              "RelativeToolTip": "Models\\Contratos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:28:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Pagos.cs",
+              "RelativeDocumentMoniker": "Models\\Pagos.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Pagos.cs",
+              "RelativeToolTip": "Models\\Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:28:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inquilinos.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Inquilinos.cs",
+              "RelativeDocumentMoniker": "Models\\Inquilinos.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Inquilinos.cs",
+              "RelativeToolTip": "Models\\Inquilinos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:28:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Propiedades.cs",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Propiedades.cs",
+              "RelativeDocumentMoniker": "Models\\Propiedades.cs",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\Models\\Propiedades.cs",
+              "RelativeToolTip": "Models\\Propiedades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:27:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-11T23:33:26.45Z",
+              "EditorCaption": ""
             }
           ]
         }
