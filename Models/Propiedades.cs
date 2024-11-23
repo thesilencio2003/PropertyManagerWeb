@@ -2,6 +2,7 @@
 
 namespace PropertyManagerWeb.Models
 {
+
     public class Propiedades
     {
             public int Id { get; set; }

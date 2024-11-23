@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KzKqvROwRaw=",
+  "dgSpecHash": "KxvNS5cR5Zc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juano\\source\\repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
+  "projectFilePath": "C:\\Users\\juano\\Source\\Repos\\PropertyManagerWeb\\PropertyManagerWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juano\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\juano\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
